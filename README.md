@@ -88,7 +88,7 @@ How load balancing works with ALB and target groups
 IAM roles and permissions for secure access
 Troubleshooting real-world AWS errors
 
-🚧 Challenges Faced
+## 🚧 Challenges Faced
 IAM permission issues with ECR (AccessDeniedException)
 AWS CLI configuration errors
 Incorrect Docker tagging before push
