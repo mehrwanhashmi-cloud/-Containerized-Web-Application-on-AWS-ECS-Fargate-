@@ -1,5 +1,5 @@
 # aws-ecs-fargate-container-app
-The application is built with Flask, containerized using Docker, stored in Amazon ECR, and deployed using Amazon ECS with AWS Fargate, making it fully serverless and scalable.
+Deployed a containerized Flask application on AWS using ECS Fargate, ECR, and Application Load Balancer for scalable, serverless infrastructure.
 
 ## 🌐 Live Demo
 load-balancer-109188194.us-east-1.elb.amazonaws.com
